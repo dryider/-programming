@@ -1,2 +1,2 @@
-Bazhenov Dmytro
-# 2th variant
+# Bazhenov Dmytro
+2th variant
