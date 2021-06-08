@@ -1,5 +1,5 @@
 # Bazhenov Dmytro
-2th variant
+# 2th variant
 # Task
 Usage of sizeof() operator
 
